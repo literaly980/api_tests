@@ -1,5 +1,7 @@
 # API-автотесты (pytest + requests)
 
+![tests](https://github.com/literaly980/api_tests/actions/workflows/tests.yml/badge.svg)
+
 Автоматизированные тесты REST API на Python. В качестве объекта тестирования —
 публичный учебный API [JSONPlaceholder](https://jsonplaceholder.typicode.com/).
 Проект показывает базовые навыки QA-автоматизатора: проверка статус-кодов,
